@@ -1,5 +1,5 @@
 Source: ppgplot
-Section: unknown
+Section: python
 Priority: extra
 Maintainer: Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>
 Build-Depends: debhelper (>= 8.0.0), python, python-dev, pgplot5, python-numpy, libx11-dev
