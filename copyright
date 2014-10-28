@@ -4,11 +4,6 @@ Source: https://code.google.com/p/ppgplot/
 
 Files: *
 Copyright: 2011 Nick Patavalis <npat at efault dot net>
-License:  LGPL
- see below
-
-Files : debian/*
-Copyright: 2014 Gijs Molenaar <Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
