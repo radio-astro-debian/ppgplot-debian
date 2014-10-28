@@ -1,0 +1,6 @@
+files
+python-ppgplot.debhelper.log
+python-ppgplot.postinst.debhelper
+python-ppgplot.prerm.debhelper
+python-ppgplot.substvars
+python-ppgplot/
