@@ -1,0 +1,12 @@
+Source: ppgplot
+Section: unknown
+Priority: extra
+Maintainer: Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>
+Build-Depends: debhelper (>= 8.0.0), python, python-dev, pgplot5, python-numpy, libx11-dev
+Standards-Version: 3.9.2
+Homepage: https://code.google.com/p/ppgplot/
+
+Package: python-ppgplot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: python module providing bindings to the PGPLOT graphics library
